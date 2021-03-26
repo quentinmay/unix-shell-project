@@ -1,5 +1,13 @@
 # Prerequisites
+# Ignore all but osh.c
+*
+!osh.c
+
+
+
 *.d
+
+*.txt
 
 # Object files
 *.o
