@@ -82,7 +82,6 @@ int main(void) {
     char command[BUFSIZ];
 	char read_cmd[BUFSIZ];
     char previousCommand[BUFSIZ];
-    // char* previousCommand = "memebro";
     
 
     memset(read_cmd, 0, BUFSIZ * sizeof(char));
